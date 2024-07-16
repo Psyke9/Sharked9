@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sharked9 👨‍💻
 
-<b>I am just a simple adventurer who loves creating tools solely for the purpose of passing time.</b> 
+<b>I am just a simple adventurer who loves creating tools solely for the purpose of passing time.</b>
 
 <i>You love it ?<i>
 
