@@ -8,7 +8,7 @@
 
 ![snake](https://github.com/user-attachments/assets/bf6bc722-3b50-4500-855c-2720eda7836a)
 
-![Sharked9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharked9&show_icons=true&theme=radical) 
+![Sharked9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyke9&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharked9&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psyke9&layout=compact&theme=radical)
 
